@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/westanvv/react-native-wheel-picker.git",
+      "/Users/champipd04/Desktop/quinsite/M5A-Mobile/Compass"
+    ]
+  ],
+  "_from": "git+https://github.com/westanvv/react-native-wheel-picker.git",
+  "_id": "react-native-wheel-picker@git+https://github.com/westanvv/react-native-wheel-picker.git#6c1740e19d21aa4546c9dcfb94480d732559227d",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-wheel-picker",
+  "_phantomChildren": {
+    "loose-envify": "1.4.0",
+    "object-assign": "4.1.1"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/westanvv/react-native-wheel-picker.git",
+    "rawSpec": "git+https://github.com/westanvv/react-native-wheel-picker.git",
+    "saveSpec": "git+https://github.com/westanvv/react-native-wheel-picker.git",
+    "fetchSpec": "https://github.com/westanvv/react-native-wheel-picker.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/westanvv/react-native-wheel-picker.git#6c1740e19d21aa4546c9dcfb94480d732559227d",
+  "_spec": "git+https://github.com/westanvv/react-native-wheel-picker.git",
+  "_where": "/Users/champipd04/Desktop/quinsite/M5A-Mobile/Compass",
+  "author": {
+    "name": "Yu Zheng"
+  },
+  "bugs": {
+    "url": "https://github.com/lesliesam/react-native-wheel-picker/issues"
+  },
+  "dependencies": {
+    "create-react-class": "15.6.3",
+    "prop-types": "15.6.2"
+  },
+  "description": "React native cross platform picker.",
+  "homepage": "https://github.com/lesliesam/react-native-wheel-picker#readme",
+  "keywords": [
+    "react-native",
+    "picker",
+    "wheel"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-wheel-picker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesliesam/react-native-wheel-picker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
